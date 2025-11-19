@@ -9,6 +9,7 @@ nav li{
 }
 nav li:hover{
     background-color: rgb(0, 255, 128); 
+    border-radius: 20%;
 }
 nav li a{
     text-decoration: none;
@@ -22,6 +23,7 @@ nav li .dropdown{
     display: none;
     position: absolute;
     padding-left: 2px;
+
 }
 nav li:hover .dropdown{
     background-color: rgb(172, 169, 165);
